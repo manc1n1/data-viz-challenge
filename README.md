@@ -31,7 +31,7 @@
 2.  Change directories to `data-viz-challenge`
 
     ```sh
-    cd pandas-challenge
+    cd data-viz-challenge
     ```
 
 3.  Open the `Jupyter Notebook` file `main.ipynb`
